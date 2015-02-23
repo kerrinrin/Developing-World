@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <!-- ask poll question, default finish key is # -->
+  <Gather action="./record_data_q1.php" method="get">
+    <Say>Thank you for agreeing to take our TICAH poll</Say>
+    <Say>Which of the following do you believe to be the most pressing issue in the communities you work with?</Say>
+    <Say>Press 1 for natural medicine</Say>
+    <Say>Press 2 for nutritious food recipes</Say>
+    <Say>Press 3 for H I V health information.</Say>
+    <Say>Press 4 for sexual rights and sexual health.</Say>
+    <Say>Press 5 for community arts and activism.</Say>
+    <Say>Press 6 for children’s well-being.</Say>
+    <Say>Press 7 for gender equity.</Say>
+    <Say>Or press 8 to repeat these choices.</Say>
+  </Gather>
+</Response>

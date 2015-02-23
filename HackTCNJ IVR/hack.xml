@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="http://www.tcnj.edu/~mclaugk3/voice-record/hack-response.php" method="get" finishOnKey="*">
+     <Play>http://www.kerrinrose.com/images/audio/Menu1.wav</Play>
+     
+    </Gather>
+</Response>
